@@ -1,0 +1,223 @@
+name = Nestor
+description = Nestor - Responsive Drupal Template
+core = 7.x
+
+
+; Stylesheets
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/ionicons.min.css
+stylesheets[all][] = css/flexslider.css
+stylesheets[all][] = css/style.css
+
+
+; Scripts
+
+scripts[] = js/bootstrap.min.js
+scripts[] = js/jquery.flexverticalcenter.js
+scripts[] = js/jquery.flexslider-min.js
+scripts[] = js/jquery.mixitup.min.js
+scripts[] = js/jquery.stellar.min.js
+scripts[] = js/retina-1.1.0.min.js
+scripts[] = js/app.js
+
+
+; Regions
+
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+regions[top_header] = Top Header
+regions[top_header_left] = Top Header left
+regions[top_header_right] = Top Header right
+regions[header] = Header
+
+regions[help] = Help
+
+regions[highlighted_1] = Highlighted 1
+regions[highlighted_2] = Highlighted 2
+
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[content_1] = Content 1
+regions[content_2] = Content 2
+regions[content_3] = Content 3
+regions[content_4] = Content 4
+regions[content_5] = Content 5
+regions[content_6] = Content 6
+regions[content_7] = Content 7
+regions[content_8] = Content 8
+regions[content_9] = Content 9
+regions[content_10] = Content 10
+regions[content_11] = Content 11
+regions[content_12] = Content 12
+
+regions[map] = Map
+
+regions[footer_first_column] = Footer first column
+regions[footer_second_column] = Footer second column
+regions[footer_third_column] = Footer third column
+regions[footer_fourth_column] = Footer fourth column
+regions[footer_left] = Footer Left
+regions[footer_right] = Footer Right
+
+
+; Default Settings
+settings[layout_version] = wide
+settings[boxed_bPattern] = bg-pattern-cross_scratches
+
+settings[theme_color] = blue
+
+settings[breadcrumbs] = on
+settings[breadcrumb_delimiter] = ›
+
+settings[header_version] = header-1
+settings[sticky_header] = off
+
+settings[back_to_top] = on
+
+settings[switcher] = off
+
+settings[top_header_bColor] = bg-color-grayLight1
+settings[top_header_tColor] = text-color-default
+
+settings[highlighted_1_bColor]   = bg-color-grayLight1
+settings[highlighted_1_tColor]   = text-color-light
+settings[highlighted_1_use_bImg] = 1
+settings[highlighted_1_bImg]     = bg-image-cactus
+settings[highlighted_1_wide]     = on
+settings[h1_parallax]            = on
+settings[h1_parallax_ratio]      = 0.7
+settings[h1_parallax_offset]     = 0
+
+settings[highlighted_2_bColor]   = bg-color-grayLight1
+settings[highlighted_2_tColor]   = text-color-light
+settings[highlighted_2_use_bImg] = 0
+settings[highlighted_2_bImg]     = bg-image-cactus
+settings[highlighted_2_wide]     = on
+settings[h2_parallax]            = off
+settings[h2_parallax_ratio]      = 0.7
+settings[h2_parallax_offset]     = 0
+
+settings[content_1_bColor]   = bg-color-theme
+settings[content_1_tColor]   = text-color-light
+settings[content_1_use_bImg] = 0
+settings[content_1_bImg]     = bg-image-cactus
+settings[content_1_wide]     = off
+settings[c1_parallax]        = off
+settings[c1_parallax_ratio]  = 0.7
+settings[c1_parallax_offset] = 0
+
+settings[content_2_bColor]   = bg-color-white
+settings[content_2_tColor]   = text-color-default
+settings[content_2_use_bImg] = 0
+settings[content_2_bImg]     = bg-image-cactus
+settings[content_2_wide]     = off
+settings[c2_parallax]        = off
+settings[c2_parallax_ratio]  = 0.7
+settings[c2_parallax_offset] = 0
+
+settings[content_3_bColor]   = bg-color-grayLight1
+settings[content_3_tColor]   = text-color-default
+settings[content_3_use_bImg] = 0
+settings[content_3_bImg]     = bg-image-cactus
+settings[content_3_wide]     = off
+settings[c3_parallax]        = off
+settings[c3_parallax_ratio]  = 0.7
+settings[c3_parallax_offset] = 0
+
+settings[content_4_bColor]   = bg-color-white
+settings[content_4_tColor]   = text-color-default
+settings[content_4_use_bImg] = 0
+settings[content_4_bImg]     = bg-image-cactus
+settings[content_4_wide]     = off
+settings[c4_parallax]        = off
+settings[c4_parallax_ratio]  = 0.7
+settings[c4_parallax_offset] = 0
+
+settings[content_5_bColor]   = bg-color-grayLight1
+settings[content_5_tColor]   = text-color-light
+settings[content_5_use_bImg] = 1
+settings[content_5_bImg]     = bg-image-city
+settings[content_5_wide]     = on
+settings[c5_parallax]        = on
+settings[c5_parallax_ratio]  = 0.7
+settings[c5_parallax_offset] = -350
+
+settings[content_6_bColor]   = bg-color-white
+settings[content_6_tColor]   = text-color-default
+settings[content_6_use_bImg] = 0
+settings[content_6_bImg]     = bg-image-cactus
+settings[content_6_wide]     = off
+settings[c6_parallax]        = off
+settings[c6_parallax_ratio]  = 0.7
+settings[c6_parallax_offset] = 0
+
+settings[content_7_bColor]   = bg-color-grayLight1
+settings[content_7_tColor]   = text-color-light
+settings[content_7_use_bImg] = 1
+settings[content_7_bImg]     = bg-image-bench
+settings[content_7_wide]     = on
+settings[c7_parallax]        = on
+settings[c7_parallax_ratio]  = 0.7
+settings[c7_parallax_offset] = -200
+
+settings[content_8_bColor]   = bg-color-grayDark1
+settings[content_8_tColor]   = text-color-light
+settings[content_8_use_bImg] = 0
+settings[content_8_bImg]     = bg-image-cactus
+settings[content_8_wide]     = off
+settings[c8_parallax]        = off
+settings[c8_parallax_ratio]  = 0.7
+settings[c8_parallax_offset] = 0
+
+settings[content_9_bColor]   = bg-color-white
+settings[content_9_tColor]   = text-color-default
+settings[content_9_use_bImg] = 0
+settings[content_9_bImg]     = bg-image-cactus
+settings[content_9_wide]     = off
+settings[c9_parallax]        = off
+settings[c9_parallax_ratio]  = 0.7
+settings[c9_parallax_offset] = 0
+
+settings[content_10_bColor]   = bg-color-theme
+settings[content_10_tColor]   = text-color-light
+settings[content_10_use_bImg] = 0
+settings[content_10_bImg]     = bg-image-cactus
+settings[content_10_wide]     = off
+settings[c10_parallax]        = off
+settings[c10_parallax_ratio]  = 0.7
+settings[c10_parallax_offset] = 0
+
+settings[content_11_bColor]   = bg-color-grayLight1
+settings[content_11_tColor]   = text-color-default
+settings[content_11_use_bImg] = 0
+settings[content_11_bImg]     = bg-image-cactus
+settings[content_11_wide]     = off
+settings[c11_parallax]        = off
+settings[c11_parallax_ratio]  = 0.7
+settings[c11_parallax_offset] = 0
+
+settings[content_12_bColor]   = bg-color-white
+settings[content_12_tColor]   = text-color-default
+settings[content_12_use_bImg] = 0
+settings[content_12_bImg]     = bg-image-cactus
+settings[content_12_wide]     = off
+settings[c12_parallax]        = off
+settings[c12_parallax_ratio]  = 0.7
+settings[c12_parallax_offset] = 0
+
+settings[footer_columns_bColor]  = bg-color-grayDark2
+settings[footer_columns_tColor]  = text-color-light
+
+settings[footer_bColor]  = bg-color-grayDark1
+settings[footer_tColor]  = text-color-light
+
+settings[latitude] = 40.787278
+settings[longitude] = -73.969722
+settings[google_zoom] = 14
+settings[google_title] = Nestor
+settings[google_description] = Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+settings[maintenanceOrConstruction] = maintenance
