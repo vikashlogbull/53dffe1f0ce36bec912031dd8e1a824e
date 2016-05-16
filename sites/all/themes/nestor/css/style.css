@@ -1171,13 +1171,14 @@ header {
 
 .our-work-1-item-description h6,
 .our-work-1-item-description p {
-  margin: 0;
-  display: inline-block;
+  /*margin: 0;
+  display: inline-block;*/
+  text-align: center;
 }
 
 .our-work-1-item-description h6 {
-  float: left;
-  width: 69%;
+/*  float: left;
+  width: 69%;*/
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
@@ -1337,7 +1338,7 @@ header {
 }
 
 .highlighted-slider-1 .slider-title {
-  font-size: 4em;
+  font-size: 3em;
   margin: 0;
   text-shadow: 1px 1px 0 #555;
 }
@@ -1537,6 +1538,14 @@ header {
 /** Panels 3 **/
 .panels-3 .panels-item-title {
   margin-bottom: 0.6em;
+}
+/** Panels 2 services Custom Styles **/
+.services_title{
+	text-align: center;
+    padding: 25px;
+}
+.region-content-6 h2{
+	text-align:center;
 }
 
 /** Panels 4 **/
