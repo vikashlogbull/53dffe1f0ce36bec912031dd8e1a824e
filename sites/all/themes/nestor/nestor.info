@@ -9,6 +9,7 @@ stylesheets[all][] = css/bootstrap.min.css
 stylesheets[all][] = css/ionicons.min.css
 stylesheets[all][] = css/flexslider.css
 stylesheets[all][] = css/style.css
+stylesheets[all][] = css/custom.css
 
 
 ; Scripts

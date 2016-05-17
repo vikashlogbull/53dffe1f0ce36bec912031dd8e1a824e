@@ -1,0 +1,23 @@
+<div class="panels-1">
+  <div class="row">
+    
+    <div class="panels-item col-xs-12 col-md-4">
+      <i class="icon ion-compass text-color-theme"></i>
+      <h6>Great Support</h6>
+      <p>Nunc et nunc ac nibh interdum mattis. Duis et turpis a lorem pellentesque rutrum quis ac dolor. Fusce vitae nibh semper. Aliquam erat volutpat.</p>
+    </div> <!-- /panels-item -->
+    
+    <div class="panels-item col-xs-12 col-md-4">
+      <i class="icon ion-android-developer text-color-theme"></i>
+      <h6>Clean Code</h6>
+      <p>Morbi aliquet sagittis dapibus. Ut ullamcorper elit diam, ac blandit nunc dignissim vitae top potenti. Donec hendrerit dolor. Vestibulum ante ipsum.</p>
+    </div> <!-- /panels-item -->
+    
+    <div class="panels-item col-xs-12 col-md-4">
+      <i class="icon ion-android-earth text-color-theme"></i>
+      <h6>We are Everywhere</h6>
+      <p>Fusce tincidunt ligula mi, et ornare turpis rhoncus sed. Sed lobortis mauris vitae consectetur. Quisque at elit et mi. Nullam id pulvinar massa.</p>
+    </div> <!-- /panels-item -->
+  
+  </div> <!-- /row -->
+</div> <!-- /panels-1 -->
